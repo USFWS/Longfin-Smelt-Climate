@@ -1,0 +1,48 @@
+[
+  {
+    "name": "Longfin Smelt Climate",
+    "organization": "U.S. Fish & Wildlife Service",
+    "description": "Data and code to support graphs of data from climate models for Longfin Smelt in the San Francisco Estuary",
+    "version": "1.0",
+    "status": "release candidate",
+
+    "permissions": {
+      "usageType": "openSource",
+      "licenses": [
+        {
+          "name": "GPL 3.0",
+          "URL": "https://github.com/USFWS/Longfin-Smelt-Climate/blob/main/LICENSE.md"
+        }
+      ]
+    },
+
+    "homepageURL": "https://github.com/USFWS/Longfin-Smelt-Climate",
+    "downloadURL": "https://github.com/USFWS/Longfin-Smelt-Climate/archive/refs/heads/main.zip",
+    "disclaimerURL": "https://github.com/USFWS/Longfin-Smelt-Climate/blob/main/DISCLAIMER.md",
+    "repositoryURL": "https://github.com/USFWS/Longfin-Smelt-Climate.git",
+    "vcs": "git",
+
+    "laborHours": 2,
+
+    "tags": [
+      "r8",
+      "usfws"
+    ],
+
+    "languages": [
+	  "r",
+      "json",
+      "md",
+      "html"
+    ],
+
+    "contact": {
+      "name": "Vanessa Tobias",
+      "email": "vanessa_tobias@fws.gov"
+    },
+
+    "date": {
+      "metadataLastUpdated": "2024-01-31"
+    }
+  }
+]
