@@ -47,3 +47,6 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# Files that aren't part of the SSA
+R_code/Not_SSA/
