@@ -2,7 +2,7 @@
   {
     "name": "Longfin Smelt Climate",
     "organization": "U.S. Fish & Wildlife Service",
-    "description": "Data and code to support graphs of data from climate models for Longfin Smelt in the San Francisco Estuary",
+    "description": "Data and code that creates the graphs of future environmental conditions predicted by climate models for the SSA for the Bay-Delta DPS of Longfin Smelt.",
     "version": "1.0",
     "status": "release candidate",
 
