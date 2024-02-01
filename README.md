@@ -23,8 +23,3 @@ No installation is necessary. Code in this repository was written with R version
 
 ## Contribute
 Please contact the project maintainer for information about this repository or about collaborating on future work.
-
-## References
-USFWS. 2022. Species Status Assessment for the San Francisco Bay-Delta Distinct Population Segment of the Longfin Smelt. Available: https://www.regulations.gov/document/FWS-R8-ES-2022-0082-0003 (October 2023).
-
-Tobias, V.D., E. Chen, J. Hobbs, M. Eakin, and S. Detwiler. 2023. Informing Extinction Risk: Summarizing Population Viability through a Meta-analysis of Multiple Long-term Monitoring Programs for a Declining Estuarine Fish Species. Biological Conservation. DOI: https://doi.org/10.1016/j.biocon.2023.110348
